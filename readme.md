@@ -2,7 +2,7 @@
 
 ## Description
 
-<img src="https://github.com/Adavo/oanaa/raw/master/client/dist/game/resources/images/oanaa.png" align="right" width="300" height="300">
+<img src="https://raw.githubusercontent.com/Adavo/Oanaa/master/oanaa.png" align="right" width="300" height="300">
 
 Oanaa is a modular online game creator, open-source, using nodejs/socket.io as server side technologies and can be easily exported as desktop/web/mobile application<br /><br />
 If you would like to help, feel free to join our discord https://discord.gg/ExV9UPF
