@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\client",
+    "\\client\\core",
+    "\\client\\electron",
+    "\\server",
+    "\\server\\core",
+    "\\server\\modules",
+    "\\server\\modules\\account"
+  ],
+  "SelectedNode": "\\client\\electron\\electron.js",
+  "PreviewInSolutionExplorer": false
+}
